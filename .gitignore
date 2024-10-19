@@ -1,0 +1,20 @@
+# Unreal Engine Specific
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Compiled binary and executable files
+*.pdb
+*.exe
+*.dll
+*.app
+*.dylib
+*.so
+
+# Compiled object files
+*.obj
+*.o
+*.lo
+*.ko
