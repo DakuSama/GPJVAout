@@ -1,4 +1,4 @@
 # GPJVAout
-Projet étudiant
-Ce projet est l'un de mes examens de 2ᵉ année. Il m'a été demandé de réaliser un prototype de système de combat pour un jeu de type Souls-like.
-Je suis la seule personne à avoir travaillé sur ce projet, donc tout le code en Blueprint a été réalisé par moi-même. Les assets (modèles, animations) proviennent de packs gratuits du marketplace d'Unreal Engine, à savoir le pack "Paragon: Aurora" et le pack "Paragon: Greystone".
+Student Project
+This project was one of my second-year exams. I was tasked with creating a combat system prototype for a Souls-like game.
+I was the only person working on this project, so all the Blueprint code was created by me. The assets (models, animations) were sourced from free packs available on the Unreal Engine marketplace, specifically the "Paragon: Aurora" pack and the "Paragon: Greystone" pack.
